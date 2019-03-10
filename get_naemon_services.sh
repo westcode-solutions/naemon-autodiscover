@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Based on: https://exchange.nagios.org/directory/Utilities/Nagios-Central-add-hosts-%28nsca%29/details
-# Modified by Kryssar & WebFooL , 2018-08-13
+# Modified by wcs-clagyl & wcs-bjogus , 2018-08-13
 # Output in .cfg file still looks like crap, but it's a work in progress. 
 
 # ToDo:
