@@ -1,2 +1,2 @@
 # naemon-autodiscover
-Function to add Host/Services in Naemon from nemon.log
+Analyse naemon.log for unknown host and services and generates them on the fly.
